@@ -9,7 +9,7 @@ public class Gugudan {
 				System.out.println(i+"*"+j+"="+i*j);
 			}
 		}
-		
+		System.out.println("Hello Github");
 	}
 
 }
