@@ -11,6 +11,7 @@ public class Gugudan {
 		}
 		System.out.println("Hello Github");
 		System.out.println("Hello spring");
+		System.out.println("Hello java");
 	}
 
 }
